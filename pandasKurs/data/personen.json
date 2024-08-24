@@ -1,0 +1,32 @@
+[
+    {
+        "Name": "Anna",
+        "Alter": 25,
+        "Groesse": 170,
+        "Geburtsdatum": "2007-03-15"
+    },
+    {
+        "Name": "Ben",
+        "Alter": 30,
+        "Groesse": 168,
+        "Geburtsdatum": "2006-07-22"
+    },
+    {
+        "Name": "Clara",
+        "Alter": 22,
+        "Groesse": 181,
+        "Geburtsdatum": "2010-09-10"
+    },
+    {
+        "Name": "David",
+        "Alter": 28,
+        "Groesse": 167,
+        "Geburtsdatum": "2008-11-04"
+    },
+    {
+        "Name": "Eva",
+        "Alter": 26,
+        "Groesse": 192,
+        "Geburtsdatum": "2009-05-18"
+    }
+]
