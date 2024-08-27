@@ -2,10 +2,12 @@
 <table>
   <tr>
     <td>
-    <i>Autor:</i> Thomas Schlögl <a href="https://www.linkedin.com/in/thomas-schlögl/">LinkedIn</a><br>
-    <i>Erstellt:</i> 2024-08-24
+    <img src="images/logoDSAI.png" alt="Logo des Kurses" style="height: 300px; width:300px;"/>
     </td>
-    <td><img src="images/logoDSAI.png" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/>
+    <td>
+    <i>Autor:</i> Thomas Schlögl <a href="https://www.linkedin.com/in/thomas-schlögl/">LinkedIn</a><br>
+    <i>Erstellt:</i> 2024-08-24<br><br>
+    Der Kurs wird laufend um Themen erweitert.
     </td>
   </tr>
 </table>
@@ -27,7 +29,9 @@ Dieses Repository enthält einen Kurs zu **Data Science** und **Artificial Intel
   </tr>
   <tr>
     <td valign="top"><b>Begriffe und Definitionen</b><br>
-    Was steckt hinter all den Begriffen <i>Artificial Intelligence</i>, <i>Machine Learning</i>, <i>Deep Learning</i>, <i>Generative Artificial Intelligence</i> und <i>Data Science</i> überhaupt? Welche Anwendungen gehören wozu?
+    Was steckt hinter all den Begriffen <i>Artificial Intelligence</i>, <i>Machine Learning</i>, <i>Deep Learning</i>, <i>Generative Artificial Intelligence</i> und <i>Data Science</i> überhaupt? Welche Anwendungen gehören wozu?<br><br>
+    <img src="images/Überblick.png" alt="Schema" style="height: 300px; width: auto;"/>
+    </td>
     </td>
     <td>
       <a href="https://www.canva.com/design/DAGM7GHKd68/-sft0TEWq9abxvAlJQcjcw/view?utm_content=DAGM7GHKd68&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">🎤 Begriffe (Canvafolien)</a><br>
