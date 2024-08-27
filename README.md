@@ -1,13 +1,11 @@
 # Data Science und Artificial Intelligence
-<table style="border-collapse: collapse; border: none;">
+<table>
   <tr>
-    <td style="border: none;">
-        <img src="images/logoDSAI.png" alt="MarineGEO circle logo" style="height: 350px; width:350px;"/>
-    </td>
-    <td style="border: none;">
+    <td>
     <i>Autor:</i> Thomas Schlögl <a href="https://www.linkedin.com/in/thomas-schlögl/">LinkedIn</a><br>
-    <i>Erstellt:</i> 2024-08-24<br><br>
-    Der Kurs wird laufend ergänzt.
+    <i>Erstellt:</i> 2024-08-24
+    </td>
+    <td><img src="images/logoDSAI.png" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/>
     </td>
   </tr>
 </table>
