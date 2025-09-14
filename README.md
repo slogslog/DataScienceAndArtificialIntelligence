@@ -102,32 +102,21 @@ Dieses Repository enthält einen Kurs zu **Data Science** und **Artificial Intel
     </td>
   </tr>
   <tr>
+    <td rowspan="3" valign="top"><b>Neural Networks</b><br>
+    Eine Einführung in Neuronale Netze.</td>
     <td>
-      <a href="https://youtu.be/e1ZH-s_xRF4" target="_blank">🔗️ YouTube Video | Teil 10: Pandas: Was sind Series und DataFrames?</a><br><br>
-      <a href="https://github.com/slogslog/DataScienceAndArtificialIntelligence/blob/main/pandasKurs/01_QuickStart.ipynb" target="_blank">🗒️ 01_QuickStart.ipynb</a><br>
-      <a href="https://youtu.be/gNEqo2knPcM" target="_blank">🔗 YouTube Video | Teil 11: Pandas: Quick Start</a><br><br>
-      <a href="https://github.com/slogslog/DataScienceAndArtificialIntelligence/blob/main/pandasKurs/02_Series_Erstellen.ipynb" target="_blank">🗒️  02_Series_Erstellen.ipynb</a><br>
-      <a href="https://youtu.be/zt7xBAv420k" target="_blank">🔗 YouTube Video | Teil 12: Pandas: Series erstellen</a><br><br>
-      <a href="https://github.com/slogslog/DataScienceAndArtificialIntelligence/blob/main/pandasKurs/03_DataFrames_Erstellen.ipynb" target="_blank">🗒️  03_DataFrames_Erstellen.ipynb</a><br>
-      <a href="https://youtu.be/kCqkLc8YC9Q" target="_blank">🔗 YouTube Video | Teil 13: Pandas: DataFrames erstellen</a><br><br>
-      <a href="https://github.com/slogslog/DataScienceAndArtificialIntelligence/blob/main/pandasKurs/04_DataFrames_Zeilenzugriff.ipynb" target="_blank">🗒️  04_DataFrames_Zeilenzugriff.ipynb</a><br>
-      <a href="https://youtu.be/FOPv87rx7fo" target="_blank">🔗 YouTube Video | Teil 14: Pandas: iloc[] und loc[]</a><br><br>
-      <a href="https://github.com/slogslog/DataScienceAndArtificialIntelligence/blob/main/pandasKurs/05_DataFrames_Kombinieren.ipynb" target="_blank">🗒️  05_DataFrames_Kombinieren.ipynb</a><br>
-      <a href="https://youtu.be/1HjfPoqnoKA" target="_blank">🔗 YouTube Video | Teil 15: Pandas: DataFrames kombinieren</a><br><br>
-      <a href="https://github.com/slogslog/DataScienceAndArtificialIntelligence/blob/main/pandasKurs/06_Beliebig%20viele%20CSV-Files%20einlesen.ipynb" target="_blank">🗒️  06_Beliebig viele CSV-Files einlesen.ipynb</a><br>
-      <a href="https://youtu.be/cYOfNtrPbfE" target="_blank">🔗 YouTube Video | Teil 16: Pandas: Laden mehrere Files</a><br><br>
-      <a href="https://github.com/slogslog/DataScienceAndArtificialIntelligence/blob/main/pandasKurs/07_Datensichtung%20Anwendungsbeispiel.ipynb" target="_blank">🗒️  07_Datensichtung Anwendungsbeispiel.ipynb</a><br>
-      <a href="https://youtu.be/Kx3j1PNii2c" target="_blank">🔗 YouTube Video | Teil 17: Pandas: info(), Datensichtung</a><br><br>
-      <a href="https://github.com/slogslog/DataScienceAndArtificialIntelligence/blob/main/pandasKurs/08_Data%20Cleaning.ipynb" target="_blank">🗒️ 08_Data Cleaning.ipynb</a><br>
-      <a href="https://youtu.be/tL5H2r0m2xI" target="_blank">🔗 YouTube Video | Teil 18: Pandas: Datenbereinigung</a>
+      Grundbegriff: Was ist ein <b>Perzeptron</b>?<br>
+      <a href="https://www.canva.com/design/DAGyRcDBqGU/RnIo5KFqBM-DuCiMLPmcYw/view?utm_content=DAGyRcDBqGU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he98830a44c" target="_blank">🎤 Perzeptron (Canvafolien)</a><br>
     </td>
   </tr>
   <tr>
-    <td rowspan="2" valign="top"><b>Neural Networks</b><br>
-    Eine Einführung in Neuronale Netze.</td>
     <td>
-    Grundbegriff: Was ist ein <b>Perzeptron</b>?<br>
-    <a href="https://www.canva.com/design/DAGyRcDBqGU/RnIo5KFqBM-DuCiMLPmcYw/view?utm_content=DAGyRcDBqGU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he98830a44c" target="_blank">🎤 Perzeptron (Canvafolien)</a><br>
+      <a href="https://www.canva.com/design/DAGymaI7v8M/i4PZ8-rBBrPMf0stMTX4gA/view?utm_content=DAGymaI7v8M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h077c6ccbb6" target="_blank">🎤 XOR mit Perzeptronen (Canvafolien)</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.canva.com/design/DAGymaI7v8M/i4PZ8-rBBrPMf0stMTX4gA/view?utm_content=DAGymaI7v8M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h077c6ccbb6" target="_blank">🎤 Sigmoidneuron (Canvafolien)</a><br>
     </td>
   </tr>
 </table>
