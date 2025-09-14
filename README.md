@@ -116,7 +116,7 @@ Dieses Repository enthält einen Kurs zu **Data Science** und **Artificial Intel
   </tr>
   <tr>
     <td>
-      <a href="https://www.canva.com/design/DAGymaI7v8M/i4PZ8-rBBrPMf0stMTX4gA/view?utm_content=DAGymaI7v8M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h077c6ccbb6" target="_blank">🎤 Sigmoidneuron (Canvafolien)</a><br>
+      <a href="https://www.canva.com/design/DAGy-N9_01M/mMGuB_J89kCHYw2BRspjug/view?utm_content=DAGy-N9_01M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h759f851d61" target="_blank">🎤 Sigmoidneuron (Canvafolien)</a><br>
     </td>
   </tr>
 </table>
