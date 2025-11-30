@@ -121,7 +121,7 @@ Dieses Repository enthält einen Kurs zu **Data Science** und **Artificial Intel
   </tr>
   <tr>
     <td>
-      <a href="https://www.canva.com/design/DAGzQqVxDtY/gUAs_4V3P5vLBtYTQ6jPCQ/edit?utm_content=DAGzQqVxDtY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">🎤 Neuronale Netze (Canvafolien)</a><br>
+      <a href="https://www.canva.com/design/DAGzQqVxDtY/UeI7YfLZ-dXa4ANAniW0RQ/view?utm_content=DAGzQqVxDtY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9183dba829" target="_blank">🎤 Neuronale Netze (Canvafolien)</a><br>
     </td>
   </tr>
 </table>
