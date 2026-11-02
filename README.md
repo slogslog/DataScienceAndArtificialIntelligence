@@ -102,7 +102,7 @@ Dieses Repository enthält einen Kurs zu **Data Science** und **Artificial Intel
     </td>
   </tr>
   <tr>
-    <td rowspan="4" valign="top"><b>Neural Networks</b><br>
+    <td rowspan="5" valign="top"><b>Neural Networks</b><br>
     Eine Einführung in Neuronale Netze.</td>
     <td>
       Grundbegriff: Was ist ein <b>Perzeptron</b>?<br>
@@ -122,6 +122,11 @@ Dieses Repository enthält einen Kurs zu **Data Science** und **Artificial Intel
   <tr>
     <td>
       <a href="https://www.canva.com/design/DAGzQqVxDtY/UeI7YfLZ-dXa4ANAniW0RQ/view?utm_content=DAGzQqVxDtY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9183dba829" target="_blank">🎤 Neuronale Netze (Canvafolien)</a><br>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <a href="https://canva.link/vum0y9567bnwehw" target="_blank">🎤 Aktivierungsfunktionen in Deep Learning Netzen (Canvafolien)</a><br>
     </td>
   </tr>
 </table>
